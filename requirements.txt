@@ -1,0 +1,7 @@
+beautifulsoup4
+html5lib
+ipywidgets
+jupyterlab
+requests
+tqdm
+unidecode
