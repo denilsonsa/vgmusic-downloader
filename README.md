@@ -35,4 +35,4 @@ Then, change the `DESTINATION` under the **Configuration** section, according to
 
 If you want to customize the filename and folder organization, change it at the **File Handling** section.
 
-Then, **Run → Run All Cells**. And wait.
+Then, **Run → Run All Cells**. And wait one hour or two.
